@@ -1,0 +1,2 @@
+# firsttry
+Learning repository
